@@ -1,0 +1,8 @@
+﻿  main.cpp
+e:\program files (x86)\visualstudio\opencv\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\program files (x86)\visualstudio\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\program files (x86)\visualstudio\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\program files (x86)\visualstudio\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\program files (x86)\visualstudio\opencv\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  dehaze_video.vcxproj -> C:\Users\DELL\Desktop\gitcode\new\dehaze_video\x64\Debug\dehaze_video.exe
+  dehaze_video.vcxproj -> C:\Users\DELL\Desktop\gitcode\new\dehaze_video\x64\Debug\dehaze_video.pdb (Full PDB)
