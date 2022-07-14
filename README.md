@@ -1,8 +1,9 @@
 # A fast dehazing method for video based on recursive filtering
-一种基于递归滤波的视频快速去雾方法，视频去雾的主要步骤是：
+一种基于递归滤波的视频快速去雾方法。该方法的主要步骤是：
 1. 通过视频序列中一定帧数的图像提取视频的背景图像；
 2. 利用背景图像快速求出视频的大气光强与大气透射率；
 3. 将求出的大气光强与大气透射率运用到计算背景图像的视频序列的去雾当中。
+
 ## 有雾视频
 <div align="center">
    <img src="https://user-images.githubusercontent.com/80933553/178894951-ce8c91d4-34f3-4abe-9deb-001743252e89.jpg" width=200 height=160> <img src="https://user-images.githubusercontent.com/80933553/178894958-8ee759e3-14b8-412d-91be-585ea28dfe80.jpg" width=200 height=160>
